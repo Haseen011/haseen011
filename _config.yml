@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Haseen'Homepage"
+title                    : "Haseen's Homepage"
 title_separator          : "-"
 name                     : &name "Haseen Siddiqui"
 description              : &description "Postdoctoral Researcher, CARES Lab, Chemical Engineering, IIT Bombay"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,13 +24,13 @@ repository               : "haseen011/haseen011.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Haseen Siddiqui"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Mumbai, India"
+  employer         : "Indian Institute of Technology Bombay"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "30005554@iitb.ac.in" 
 
   # Academic websites
   academia         : # URL
